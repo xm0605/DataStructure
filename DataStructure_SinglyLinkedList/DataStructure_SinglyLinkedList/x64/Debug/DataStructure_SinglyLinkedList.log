@@ -1,0 +1,5 @@
+﻿  SLList.c
+D:\C_program_work\DataStructure_SinglyLinkedList\DataStructure_SinglyLinkedList\SLList.c(77,1): warning C4090: “初始化”: 不同的“const”限定符
+  test.c
+  正在生成代码...
+  DataStructure_SinglyLinkedList.vcxproj -> D:\C_program_work\DataStructure_SinglyLinkedList\x64\Debug\DataStructure_SinglyLinkedList.exe
